@@ -1,12 +1,12 @@
 Hello! I’m @DemidSergeev
 ---
-Currently looking for part-time junior/trainee position.
+Currently R&D intern at [Infotecs](https://infotecs.ru/).
 
 Personal info:
 - Location: Saint-Petersburg, Russia
 - Age: 20
 - I'm learning **Software Engineering** at Bonch-Bruevich SPbSUT and currently I'm at the 3rd year of bachelor program. 
-- Some of my current interests: **Java, Python (ML & Data analysis), C++**.
+- Some of my current interests: **C/C++, Network programming**.
 
 Links:
 - LeetCode: [link](https://leetcode.com/u/bviiidontpanic/)
