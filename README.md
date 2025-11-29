@@ -1,6 +1,6 @@
 Hello! I’m @DemidSergeev
 ---
-Currently R&D intern at [Infotecs](https://infotecs.ru/).
+Currently R&D engineer at [Infotecs](https://infotecs.ru/).
 
 Personal info:
 - Location: Saint-Petersburg, Russia
