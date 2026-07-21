@@ -5,7 +5,7 @@ Currently R&D engineer at [Infotecs](https://infotecs.ru/).
 Personal info:
 - Location: Saint-Petersburg, Russia
 - Age: 21
-- I'm learning **Software Engineering** at Bonch-Bruevich SPbSUT and currently I'm at the 4th year of bachelor program. 
+- I'm learning **Software Engineering**, graduated from Bonch-Bruevich SPbSUT. 
 - Some of my current interests: **C/C++, Network programming**.
 
 Links:
